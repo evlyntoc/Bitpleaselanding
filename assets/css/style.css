@@ -193,7 +193,7 @@ section {
   align-items: center;
   justify-content: space-between;
   padding: 10px 0 10px 30px;
-  font-family: "Nunito", sans-serif;
+  font-family: "Inter";
   font-size: 16px;
   font-weight: 700;
   color: #013289;
@@ -399,7 +399,7 @@ section {
   border: 2px solid #0938B1 ;
 }
 .hero .btn-get-startedE span {
-  font-family: "Nunito", sans-serif;
+  font-family: "Inter";
   font-weight: 600;
   font-size: 16px;
   letter-spacing: 1px;
@@ -417,7 +417,7 @@ section {
   border: 2px solid #F2BD00 ;
 }
 .hero .btn-get-startedF span {
-  font-family: "Nunito", sans-serif;
+  font-family: "Inter";
   font-weight:600;
   font-size: 12px;
   letter-spacing: 1px;
@@ -435,7 +435,7 @@ section {
   border: 2px solid #0938B1 ;
 }
 .hero .btn-get-started span {
-  font-family: "Nunito", sans-serif;
+  font-family: "Inter";
   font-weight: 600;
   font-size: 16px;
   letter-spacing: 1px;
@@ -529,14 +529,14 @@ section {
   font-weight: 700;
   letter-spacing: 1px;
   color: #FFFFFF;
-  font-family: "Nunito", sans-serif;
+  font-family: "Inter";
   margin-top: 3px;
 }
 .footer .footer-top .footer-info p {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Nunito", sans-serif;
+  font-family: "Inter";
 }
 .footer .footer-top .social-links a {
   font-size: 20px;
