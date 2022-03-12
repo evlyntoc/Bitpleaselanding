@@ -147,6 +147,9 @@ section {
   transition: all 0.5s;
   z-index: 997;
   padding: 20px 0;
+  background: #F0F4FF;
+  padding: 15px 0;
+  /* box-shadow: 0px 2px 20px rgba(1, 41, 112, 0.1); */
 }
 .header.header-scrolled {
   background: #F0F4FF;
@@ -161,7 +164,7 @@ section {
   margin-right: 6px;
 }
 .header .logo span {
-  font-size: 30px;
+  font-size: 25px;
   font-weight: 700;
   letter-spacing: 1px;
   color: #0938B1;
@@ -169,6 +172,14 @@ section {
   margin-top: 3px;
 }
 
+.header .logo P {
+  font-size: 25px;
+  /* font-weight: 300; */
+  letter-spacing: 1px;
+  color: #0938B1;
+  font-family: "Nunito", sans-serif;
+  margin-top: 3px;
+}
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
@@ -177,6 +188,7 @@ section {
 */
 .navbar {
   padding: 0;
+  
 }
 .navbar ul {
   margin: 0;
@@ -388,10 +400,11 @@ section {
 }
 
 .hero .btn-get-startedE {
-  margin-top: 30px;
+  margin-top: 60px;
+margin-right: 15px;
   line-height: 0;
-  padding: 15px 40px ;
-  border-radius: 4px;
+  padding: 20px 40px ;
+  /* border-radius: 4px; */
   transition: 0.5s;
   color: #0938B1;
   background: #FFFF;
@@ -406,7 +419,7 @@ section {
 }
 
 .hero .btn-get-startedF {
-  margin-top: 30px;
+  /* margin-top: 20px; */
   line-height: 0;
   padding: 10px 15px ;
   border-radius: 4px;
@@ -426,8 +439,8 @@ section {
 .hero .btn-get-started {
   margin-top: 30px;
   line-height: 0;
-  padding: 15px 40px;
-  border-radius: 4px;
+  padding: 20px 40px;
+  /* border-radius: 4px; */
   transition: 0.5s;
   color: #fff;
   background: #0938B1;
